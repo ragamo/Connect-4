@@ -4,6 +4,8 @@ A ES6 Pixi.js game.
 
 This game provides a micro-framework for work with some Pixi libraries.
 
+Demo: http://haack.cl/connect4/
+
 ## Install dependencies
 
 ```sh
@@ -23,4 +25,3 @@ Runs a local static webserver with watchify on port 8000
 ```sh
 $ npm run serve
 ```
-
