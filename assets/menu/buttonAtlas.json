@@ -1,0 +1,29 @@
+{
+	"frames": {
+		"buttonDefault": {
+			"frame": {"x":0, "y":0, "w":294, "h":70},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0, "y":0, "w":294, "h":70},
+			"sourceSize": {"w": 294, "h": 70}
+		},
+		"buttonHover": {
+			"frame": {"x":0, "y":70, "w":294, "h":70},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0, "y":70, "w":294, "h":70},
+			"sourceSize": {"w": 294, "h": 70}
+		},
+		"buttonActive": {
+			"frame": {"x":0, "y":140, "w":294, "h":70},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0, "y":140, "w":294, "h":70},
+			"sourceSize": {"w": 294, "h": 70}
+		}
+	},
+
+	"meta": {
+		"image": "../../../assets/menu/buttonSprite.png"
+	}
+}
