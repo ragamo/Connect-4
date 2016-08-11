@@ -139,7 +139,7 @@ export default class Connect4 extends Stage {
 				this.map[rowIndex][colIndex] = this.currentPlayer;
 
 			//Check if win
-			if(this.util.findConnected().length == 4) {
+			if(this.util.findConnected().length >= 4) {
 				this.UI.gameOver(this.currentPlayer.name+' win!');
 
 			} else {

@@ -23,7 +23,6 @@ export default class Engine {
 
 		//Preloader manager properties
 		this.resources = {};
-		this.preloader = new Preloader();
 
 		//Create a profiler for debug
 		this.debug = config.profiler;
